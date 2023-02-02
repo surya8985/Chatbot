@@ -662,19 +662,6 @@
         </botDialogs>
         <botDialogs>
             <botSteps>
-                <conversationSystemMessage>
-                    <type>Transfer</type>
-                </conversationSystemMessage>
-                <stepIdentifier>b9a8795d-341b-4c66-9d30-99e109faf2d9</stepIdentifier>
-                <type>SystemMessage</type>
-            </botSteps>
-            <developerName>Transfer_To_Agent</developerName>
-            <isPlaceholderDialog>false</isPlaceholderDialog>
-            <label>Transfer To Agent</label>
-            <showInFooterMenu>false</showInFooterMenu>
-        </botDialogs>
-        <botDialogs>
-            <botSteps>
                 <botMessages>
                     <message>Goodbye! Click the &quot;End Chat&quot; button to end this chat</message>
                     <messageIdentifier>5bb5e6de-516f-4c93-9d79-2e5a4cf19217</messageIdentifier>
