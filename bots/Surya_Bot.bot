@@ -1176,7 +1176,7 @@
         <label>Routable Id</label>
     </contextVariables>
     <conversationChannelProviders>
-        <agentRequired>false</agentRequired>
+        <agentRequired>true</agentRequired>
         <chatButtonName>Chat_Bot</chatButtonName>
     </conversationChannelProviders>
     <description>A bot from scratch.</description>
