@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesSendEmailToMembers>false</doesSendEmailToMembers>
+    <name>SuperMan Chat</name>
+    <queueMembers>
+        <users>
+            <user>spsaleforce@gmail.com</user>
+        </users>
+    </queueMembers>
+    <queueRoutingConfig>SuperMan_Chat</queueRoutingConfig>
+    <queueSobject>
+        <sobjectType>LiveChatTranscript</sobjectType>
+    </queueSobject>
+</Queue>
