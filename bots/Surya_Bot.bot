@@ -1175,10 +1175,6 @@
         <developerName>RoutableId</developerName>
         <label>Routable Id</label>
     </contextVariables>
-    <conversationChannelProviders>
-        <agentRequired>true</agentRequired>
-        <chatButtonName>Chat_Bot</chatButtonName>
-    </conversationChannelProviders>
     <description>A bot from scratch.</description>
     <label>Surya Bot</label>
     <logPrivateConversationData>false</logPrivateConversationData>
